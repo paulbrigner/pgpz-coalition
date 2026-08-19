@@ -90,3 +90,9 @@ The app is configured for AWS Amplify via `amplify.yml`. Runtime environment var
 ## Design Resources
 
 See [PGPZ UX Enhancement Process](docs/ux-enhancement-process.md) for the Coalition Figma resource structure, capture workflow, and handoff process.
+
+## License
+
+This project is licensed under the
+[GNU Affero General Public License, version 3 only](LICENSE)
+(`AGPL-3.0-only`).
